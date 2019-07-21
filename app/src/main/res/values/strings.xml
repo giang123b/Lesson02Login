@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson02Login</string>
+    <string name="lastName">Last Name</string>
+    <string name="fisrtName">Fisrt Name</string>
+    <string name="addYourPhoto">Add Your Photo</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+</resources>
